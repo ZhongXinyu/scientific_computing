@@ -26,4 +26,3 @@ for face_location in face_locations:
 background.show()
 background.save(f'{file_name}_Christmas_Hat.png', format="png")
 
-
